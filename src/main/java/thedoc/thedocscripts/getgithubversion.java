@@ -16,7 +16,7 @@ import java.util.Scanner;
  *
  * @author thedoc
  */
-//
+///
 public class getgithubversion {
         /**
      * @param _updtpath Input you github master repo path example: "/thedocscripts/VotyfyVer" this will look automatically for version file
